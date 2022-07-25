@@ -104,7 +104,7 @@ Create Azure Synapse Analytics (private link hubs): **plepsyntaller001**
 
 Creamos Private EndPoint en la seccion de private endpoint conections y + private endpoint
 
-![](assets\Cap-0056.jpg)
+![](assets/Cap-0056.jpg)
 
 Asignamos suscripción y grupo de recursos
 
