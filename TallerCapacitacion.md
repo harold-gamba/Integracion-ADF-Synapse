@@ -53,7 +53,7 @@ tags en nombre seleccionamos **Ambiente** con el valor **Analítica Avanzada** y
 
 en el apartado DNS Configuración encontraremos estos valors que pueden ser usados para el Integration Runtime de tierra para la conectividad
 
-![](assets\Cap-0041.jpg)
+![](assets/Cap-0041.jpg)
 
 El término Fully Qualified Domain Name (**FQDN**) se refiere a la **dirección completa y única necesaria para tener presencia en Internet**.
 
@@ -84,7 +84,7 @@ el workspace de synapse y vamos a data si nos sale este mensaje es porque no ten
 
 para solucionarlo abrimos el synapse nos vamos a networking habilitamos el acceso publico a el workspace endpoints y agregamos nuestra ip publica y guardamos
 
-![](assets\Cap-0049.jpg)
+![](assets/Cap-0049.jpg)
 
 si nos vamos a la cuenta de almacenamiento en la sección de networking private endpoint vemos que el synapse también creo por defecto un private endpoint 
 
@@ -128,7 +128,7 @@ Private EndPoint: **pl-syn-taller-001-sql**
 
 Private EndPoint: **pl-syn-taller-001-qlodm** los seleccionamos y los aprobamos
 
-![](assets\2022-07-21-17-48-37-image.png)
+![](assets/2022-07-21-17-48-37-image.png)
 
 para acceder a el espacio de trabajo vamos a networking firewall settings 
 
@@ -155,7 +155,7 @@ Aprobar el private Endpoint si esta
 Private EndPoint:pl-dls-taller-001-df
 Private EndPoint:pl-dls-taller-001-blob
 
-![](assets\2022-07-21-17-48-37-image.png)
+![](assets/2022-07-21-17-48-37-image.png)
 
 Configure Resource type
 
