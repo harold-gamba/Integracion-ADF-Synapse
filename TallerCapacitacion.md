@@ -108,17 +108,17 @@ Creamos Private EndPoint en la seccion de private endpoint conections y + privat
 
 Asignamos suscripción y grupo de recursos
 
-![](assets\Cap-0057.jpg)
+![](assets/Cap-0057.jpg)
 
 asignamos el nombre: **plep-syn-taller-001-portal**
 
 en la pestaña de recurso asignamos los valores en la imagen
 
-![](assets\Cap-0058.jpg)
+![](assets/Cap-0058.jpg)
 
 Asignamos la vnet y subnet en DNS la suscripcion y el grupo de recursos dentro de tags en nombre seleccionemos **Ambiente** con el valor **Analítica Avanzada** y creamos otra en nombre **Proyecto** con valor **Analítica Avanzada** revisar y crear nos dara este resumen
 
-![](assets\Cap-0059.jpg)
+![](assets/Cap-0059.jpg)
 
 Dentro de synapse creamos estos tres private endpoints 
 
@@ -132,11 +132,11 @@ Private EndPoint: **pl-syn-taller-001-qlodm** los seleccionamos y los aprobamos
 
 para acceder a el espacio de trabajo vamos a networking firewall settings 
 
-![](assets\Cap-0066.jpg)
+![](assets/Cap-0066.jpg)
 
 marcamos la casilla Allow Azure services and resources to access this workspace también activamos la casilla Enable y agregamos nuestra ip publica
 
-![](assets\Cap-0067.jpg)
+![](assets/Cap-0067.jpg)
 
 Creamos un contenedor llamado: test y cargar el archivo csv
 
