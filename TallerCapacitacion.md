@@ -92,7 +92,7 @@ si nos vamos a la cuenta de almacenamiento en la sección de networking private 
 
 en la columna connection state esta como provisional debemos seleccionarlo y aprobarlo le damos un nombre ej conexión entre synapse y cuenta de almacenamiento ahora si vamos a el workspace de synapse en el icono de administrar en el menú de managed private endpoints vemos tres private endpoints creados 
 
-![](assets\Cap-0050.jpg)
+![](assets/Cap-0050.jpg)
 
 el primero es la conexión segura hacia el datalake que fue el que aprobamos en la imagen anterior los otros dos los crea por defecto uno es para el **pool de SQL** que *<u>"aun no se ha creado"</u>* y el otro es para el **serverless**.
 
@@ -172,8 +172,6 @@ Create un Copy Data
 Create New managed private endpoint: dlssyntaller001 y aprobar
 
 ![](assets/Cap-0073.jpg)
-
-
 
 Create DataSet SourceCSv 
 
